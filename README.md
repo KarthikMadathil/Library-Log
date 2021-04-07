@@ -16,7 +16,18 @@ ___
 - ⚡️ Add ,Edit , Deleate User 
 
  
+## System Requirment 📋
+___
+- ✔️ PHP.
+- ✔️ Mysql
+- ✔️ Apache/Nginix
+- ✔️ Knowledge in Laravel Application Running.
+
+The Code is written in Php's Laravel Framework
+
 ## Author : *Karthik Madathil* 
+⭐ Star me on GitHub — it helps!
+
 
 
 ## Contributing 💡
